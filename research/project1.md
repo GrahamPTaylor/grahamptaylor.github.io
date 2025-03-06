@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Atmospheric Circulation CMIP6 Model Evaluation
-permalink: /research/project1/
+permalink: /research/CMIP6 Model Fidelity/
 ---
 
 # Project 1
