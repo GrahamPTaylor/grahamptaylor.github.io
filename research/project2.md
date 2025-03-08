@@ -7,4 +7,5 @@ permalink: /research/project2/
 
 The West Coast of the US typically experiences cool, wet winters and warm, dry summers, with a transitional period between seasons that brings an increased risk of both strong winds and significant rain. This transition coincides with dangerously dry vegetation, creating high wildfire risk when strong winds arrive before rain. Climate models predict that by the end of the century, strong winds will occur later in the season, and the first significant rainfall will also be delayed, though not as much as the winds. While there may be fewer instances where wind arrives before rain, the longer dry season will likely lead to drier vegetation, potentially affecting wildfire risk.
 
-![Historical Rain Onset Average](/images/era5_rain_onset_triple_split_3mmWA.jpg)
+
+<img src="/images/era5_rain_onset_triple_split_3mmWA.jpg" alt="Historical Rain Onset Average" width="500">
