@@ -7,7 +7,7 @@ permalink: /research/
 # Research
 Here are my research projects:
 
-- [Project 1](research/project1)
-- [Project 2](research/project2)
-- [Project 3](research/project3)
-- [Project 4](research/project4)
+- [CMIP6 Model Fidelity](research/project1)
+- [Projections of Atmospheric Circulation](research/project2)
+- [West Coast Rain Onset and Wildfire](research/project3)
+- [Downscaling Fit For Purpose](research/project4)
