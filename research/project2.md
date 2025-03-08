@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projected Changes to Atmospheric Circulation
-permalink: /research/project1/
+title: West Coast Rain Onset and Wildfire
+permalink: /research/project2/
 ---
 
 # Project 1
