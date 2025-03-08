@@ -1,6 +1,6 @@
 ---
 layout: page
-title: West Coast Rain and Wind Onset
+title: Downscaling Fit For Purpose
 permalink: /research/project3/
 ---
 
