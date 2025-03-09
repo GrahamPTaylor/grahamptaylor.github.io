@@ -8,3 +8,4 @@ I am a UCAR postdoctoral scholar, working at the NOAA Geophysical Fluid Dynamics
 
 Prior to my postdoc, I received my PhD from Portland State University. My dissertation was titled "Atmospheric Circulation, Climate Change, and Related Impacts Over the Western United States".
 
+<img src="/images/gtaylor headshot small.jpg" alt="Historical Rain Onset Average" width="300">
