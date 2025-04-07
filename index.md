@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 title: About Me
-permalink: /about/
+permalink: /
 ---
 
 <div style="display: flex; align-items: center;">
