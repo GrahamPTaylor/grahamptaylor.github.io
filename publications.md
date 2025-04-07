@@ -4,8 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-# Publications
-
 **Taylor, G.P.**, P. C. Loikith, H. Lee, 2023: Projected Changes in the Timing of Autumn Rain, Wind, and Their Co-Occurrence Over western North America. In Review.
 
 **Taylor, G. P.**, P. C. Loikith, H. Lee, B. Lintner, and C. M. Aragon, 2023: Projections of Large-Scale Atmospheric Circulation Patterns and Associated Temperature and Precipitation over the Pacific Northwest Using CMIP6 Models. Journal of Climate, 36, 7257–7275, https://doi.org/10.1175/JCLI-D-23-0108.1.
