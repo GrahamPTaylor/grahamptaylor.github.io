@@ -22,7 +22,7 @@ The West Coast of the US typically experiences cool, wet winters and warm, dry s
 
 #### Projected Changes to Rain Onset
 
-<img src="/images/Figure7.jpg" alt="Historical Rain Onset Average" width="600">
+<img src="/images/Figure7.jpeg" alt="Historical Rain Onset Average" width="600">
 
 #### Projected Changes to Wind Onset
 
