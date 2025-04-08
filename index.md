@@ -10,11 +10,12 @@ permalink: /
     <img src="/images/headshot.jpg" alt="Description" style="margin-left: 20px; width: 150px;">
 </div>
 
-<br><br><br><br><br><br><br><br>
-# Research
+<br><br><br><br><br><br>
+# Research Projects
 
 - [West Coast Rain Onset and Wildfire](#west-coast-rain-onset-and-wildfire)
 - [Projections of Atmospheric Circulation](#projections-of-atmospheric-circulation)
+- [Downscaling Fit-For-Purpose](#downscaling-fit-for-purpose)
 
 ## West Coast Rain Onset and Wildfire
 
