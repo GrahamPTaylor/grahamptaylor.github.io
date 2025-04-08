@@ -2,4 +2,4 @@
 layout: page
 permalink: /cv/
 ---
-[Download my CV (PDF)](Documents/CV.pdf)
+[My CV (PDF)](Documents/CV.pdf)
