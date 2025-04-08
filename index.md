@@ -13,9 +13,8 @@ permalink: /
 <br><br><br><br><br><br><br><br>
 # Research
 
-<h3 id="rain-onset">West Coast Rain Onset and Wildfire</h3>
-<h3 id="circulation-projections">Projections of Atmospheric Circulation</h3>
-<h3 id="fit-for-purpose">Downscaling Fit-For-Purpose</h3>
+- [West Coast Rain Onset and Wildfire](#west-coast-rain-onset-and-wildfire)
+- [Projections of Atmospheric Circulation](#projections-of-atmospheric-circulation)
 
 ## West Coast Rain Onset and Wildfire
 
