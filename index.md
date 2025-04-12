@@ -39,6 +39,17 @@ The West Coast of the US typically experiences cool, wet winters and warm, dry s
 
 Climate models predict that by the end of this century, the Pacific Northwest will experience similar winter weather patterns as today, but summer patterns will show weaker atmospheric circulation. Summer weather patterns with strong atmospheric pressure differences will become less frequent. In winter, historically cold patterns will warm the most, while summer will see the greatest warming inland. Most areas will get wetter overall, though some currently rainy summer patterns may become significantly drier.
 
+### Historical JJA Z500 Anomalies (1985-2014)
+
+<img src="/images/JJA_circulation.png" alt="Historical Rain Onset Average" width="600">
+
+
+### Future JJA Z500 Anomalies (2070-2099)
+
+Shading shows future Z500 anomalies. Solid contours show positive change, dashed contours show negative change. 
+
+<img src="/images/JJA_change.png" alt="Historical Rain Onset Average" width="600">
+
 <br><br><br><br>
 
 ## Downscaling Fit-For-Purpose
