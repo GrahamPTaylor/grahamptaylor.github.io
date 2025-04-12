@@ -34,7 +34,7 @@ The West Coast of the US typically experiences cool, wet winters and warm, dry s
 <img src="/images/model_wind_onset_change_sig.jpg" alt="Historical Rain Onset Average" width="600">
 
 
-_In revisions, JGR Atmospheres__
+_In revisions, JGR Atmospheres_
 <br><br><br><br>
 
 ## Projections of Atmospheric Circulation
