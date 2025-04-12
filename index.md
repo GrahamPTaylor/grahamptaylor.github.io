@@ -33,6 +33,8 @@ The West Coast of the US typically experiences cool, wet winters and warm, dry s
 
 <img src="/images/model_wind_onset_change_sig.jpg" alt="Historical Rain Onset Average" width="600">
 
+
+_In revisions, JGR Atmospheres__
 <br><br><br><br>
 
 ## Projections of Atmospheric Circulation
@@ -50,6 +52,10 @@ Shading shows future Z500 anomalies. Solid contours show positive change, dashed
 
 <img src="/images/JJA_change.png" alt="Historical Rain Onset Average" width="600">
 
+
+[CMIP6 model fidelity at simulating large-scale atmospheric circulation patterns and associated temperature and precipitation over the Pacific Northwest](https://doi.org/10.1007/s00382-022-06410-1)
+
+[Projections of Large-Scale Atmospheric Circulation Patterns and Associated Temperature and Precipitation over the Pacific Northwest Using CMIP6 Models](https://doi.org/10.1175/JCLI-D-23-0108.1)
 <br><br><br><br>
 
 ## Downscaling Fit-For-Purpose
