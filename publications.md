@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-**Taylor, G.P.**, K. Dixon, L. Sun, N. Zenes , S. Hartke, F. Lehner, A. Newman, E. Guttman, R. McCrary, 2025: How Observation-Based Data Influence Uncertainty in Local Climate Projections. Journal of Applied Meteorology and Climatology. In Review. 
+**Taylor, G. P.**, K. Dixon, L. Sun, N. Zenes , S. Hartke, F. Lehner, A. Newman, E. Guttman, R. McCrary, 2025: How Observation-Based Data Influence Uncertainty in Local Climate Projections. Journal of Applied Meteorology and Climatology. In Review. 
 
 **Taylor, G. P.**, P. C. Loikith, H. K. Lee, S. Rahimi, and A. Hall, 2025: Historical and Future Autumn Rain and Wind Onset Over Western North America Using Regional Climate Models. Journal of Geophysical Research: Atmospheres, 130, e2025JD044267, https://doi.org/10.1029/2025JD044267.
 
