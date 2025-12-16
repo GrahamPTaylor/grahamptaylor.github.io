@@ -4,7 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
-**Taylor, G.P.**, P. C. Loikith, H. Lee, S. Rahimi, A. Hall, 2025: Historical and Future Autumn Rain and Wind Onset over Western North America Using Regional Climate Models. In Review.
+**Taylor, G.P.**, K. Dixon, L. Sun, N. Zenes , S. Hartke, F. Lehner, A. Newman, E. Guttman, R. McCrary, 2025: How Observation-Based Data Influence Uncertainty in Local Climate Projections. Journal of Applied Meteorology and Climatology. In Review. 
+
+**Taylor, G. P.**, P. C. Loikith, H. K. Lee, S. Rahimi, and A. Hall, 2025: Historical and Future Autumn Rain and Wind Onset Over Western North America Using Regional Climate Models. Journal of Geophysical Research: Atmospheres, 130, e2025JD044267, https://doi.org/10.1029/2025JD044267.
 
 **Taylor, G. P.**, P. C. Loikith, H. Lee, B. Lintner, and C. M. Aragon, 2023: Projections of Large-Scale Atmospheric Circulation Patterns and Associated Temperature and Precipitation over the Pacific Northwest Using CMIP6 Models. Journal of Climate, 36, 7257–7275, https://doi.org/10.1175/JCLI-D-23-0108.1.
 
