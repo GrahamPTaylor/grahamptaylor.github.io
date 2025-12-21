@@ -5,7 +5,7 @@ permalink: /
 
 
 <div style="display: flex; align-items: center;">
-    <p style="margin: 0;">My name is Graham Taylor, and I am Research Associate at Cornell University. My current work is focused on evaluating which downscaling and bias-correction methods are "fit for purpose" for users of climate data. Prior to Cornell, I was a UCAR CPAESS postdoc working at the NOAA Geophysical Fluid Dynamics laboratory. I received my PhD from Portland State University, where I investigated the large-scale circulation drivers of weather in the western US, and how those dynamic drivers may change in a warmer world. 
+    <p style="margin: 0;">My name is Graham Taylor, and I am Research Associate in the Department of Earth and Atmospheric Sciences at Cornell University. My current work is focused on evaluating which downscaling and bias-correction methods are "fit for purpose" for users of climate data. Prior to Cornell, I was a UCAR CPAESS postdoc working at the NOAA Geophysical Fluid Dynamics laboratory. I received my PhD from Portland State University, where I investigated the large-scale circulation drivers of weather in the western US, and how those dynamic drivers may change in a warmer world. 
 </p>
     <img src="/images/headshot.jpg" alt="Description" style="margin-left: 20px; width: 150px;">
 </div>
