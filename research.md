@@ -18,16 +18,21 @@ The West Coast of the US typically experiences cool, wet winters and warm, dry s
 
 <img src="/images/era5_rain_onset_triple_split_3mmWA.jpg" alt="Historical Rain Onset Average" width="300">
 
+Historical (1981:2010) average rain onset date in WRF‐ERA5. Only grid cells where the winter (December, January, and February) mean total precipitation is at least three times the summer (June, July, and August) mean total precipitation are shaded.
+
 #### Projected Changes to Rain Onset
 
 <img src="/images/Figure7.jpeg" alt="Historical Rain Onset Average" width="600">
+
+Projected change in the average rain onset date in days. A positive value indicates that the rain onset is projected to be later in the year, whereas a negative value indicates an earlier onset. Differences are calculated between historical (1981:2010) and future (2070:2099) averages. Hatching indicates significance at the 90th percentile confidence level, using a Mann‐Whitney U test. Ensemble mean hatching indicates where at least six models agree on the significant change of the same sign.
 
 #### Projected Changes to Wind Onset
 
 <img src="/images/model_wind_onset_change_sig.jpg" alt="Historical Rain Onset Average" width="600">
 
+Projected change in the average wind onset date in days. Differences are calculated between future (2070:2099) and historical (1981:2010) averages. Hatching indicates significance at the 90th percentile confidence level, according to a Mann‐Whitney U test. Ensemble mean hatching indicates where at least six models agree on significant change of the same sign. Wind percentiles are based on the 1981–2010 climate for historical and future onset calculations.
 
-[Historical and Future Autumn Rain and Wind Onset Over Western North America Using Regional Climate Models](https://doi.org/10.1029/2025JD044267)
+This work has been published in the *Journal of Geophysical Research: Atmospheres*:[Historical and Future Autumn Rain and Wind Onset Over Western North America Using Regional Climate Models](https://doi.org/10.1029/2025JD044267)
 <br><br><br><br>
 
 ## Projections of Atmospheric Circulation
@@ -36,16 +41,18 @@ Climate models predict that by the end of this century, the Pacific Northwest wi
 
 ### Historical JJA Z500 Anomalies (1985-2014)
 
-<img src="/images/JJA_circulation.png" alt="Historical Rain Onset Average" width="600">
+<img src="/images/JJA_circulation.png" alt="JJA Circulation" width="600">
 
-
+Historical range of Z500 anomalies, as calculating using self-organizing maps. These show the range of JJA circulation patterns characteristic of the region.
 ### Future JJA Z500 Anomalies (2070-2099)
 
 Shading shows future Z500 anomalies. Solid contours show positive change, dashed contours show negative change. 
 
-<img src="/images/JJA_change.png" alt="Historical Rain Onset Average" width="600">
+<img src="/images/JJA_change.png" alt="JJA Circulation Change" width="600">
 
+Difference between the 2071–2100 Z500 anomaly patterns and the historical anomaly patterns (contoured every 3 m). Solid contours indicate positive change, while dashed contours indicate negative change. The dotted line is the zero contour. Shading shows end-of-century pseudo-SOMs. Grid cells with green dots are where at least half of the CMIP6 models exhibit a statistically significant change of the same sign at the 95% confidence level according to a t test. Grid cells with gray dots are where at least half of the 26 models agree on the sign of change without the significance constraint.
 
+This work has been published in *Climate Dynamics* and *Journal of Climate*:
 [CMIP6 model fidelity at simulating large-scale atmospheric circulation patterns and associated temperature and precipitation over the Pacific Northwest](https://doi.org/10.1007/s00382-022-06410-1)
 
 [Projections of Large-Scale Atmospheric Circulation Patterns and Associated Temperature and Precipitation over the Pacific Northwest Using CMIP6 Models](https://doi.org/10.1175/JCLI-D-23-0108.1)
@@ -75,3 +82,5 @@ Annual count of Frost Days for 5 stations around the Puget Sound, and OBGD grid 
 <img src="/images/Figure8.jpeg" alt="Climate Model Projections of Frost Days Across Downscaling Methods" width="600">
 
 Frost Day (1985-2099) counts for each year at 5 locations, smoothed with a 3-year moving mean, showing the 16 model ensemble mean for LOCA2 (green), BCSDd (purple), and STAR trained on nClimGrid (brown). For STAR, the model mean value for STAR downscaled with station data at OLM and SEA is also shown in blue. For years 2015-2099, results are from the SSP5-8.5 scenario. Note the significant difference between the two STAR datasets, just by switching the training data, the projected future Frost Days count changes by 100% because of a different baseline.
+
+This work is currently in revision at the *Journal of Applied Meteorology and Climatology*
