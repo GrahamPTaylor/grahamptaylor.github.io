@@ -5,11 +5,11 @@ permalink: /
 
 
 <div style="display: flex; align-items: center;">
-    <p style="margin: 0;">My name is Graham Taylor, and I am Research Associate in the Department of Earth and Atmospheric Sciences at Cornell University. My current work is focused on evaluating which downscaling and bias-correction methods are "fit for purpose" for users of climate data. Prior to Cornell, I was a UCAR CPAESS postdoc working at the NOAA Geophysical Fluid Dynamics laboratory. I received my PhD from Portland State University, where I investigated the large-scale circulation drivers of weather in the western US, and how those dynamic drivers may change in a warmer world. 
+    <p style="margin: 0;">My name is Graham Taylor, and I am Research Associate in the Department of Earth and Atmospheric Sciences at Cornell University. My current work is focused on evaluating methods of bias-correcting and downscaling climate models, and providing guidance to practitioners on which methods are fit for which purpose. Prior to Cornell, I was a UCAR CPAESS postdoc working at the NOAA Geophysical Fluid Dynamics laboratory. I received my PhD from Portland State University, where I investigated the large-scale circulation drivers of weather in the western US, and how that weather may change in a warmer world. Please view the research page for more information about my work. 
 </p>
     <img src="/images/headshot.jpg" alt="Description" style="margin-left: 20px; width: 150px;">
 </div>
-
+<!--
 <br><br><br>
 # Research Projects
 
@@ -82,3 +82,5 @@ Annual count of Frost Days for 5 stations around the Puget Sound, and OBGD grid 
 <img src="/images/Figure8.jpeg" alt="Climate Model Projections of Frost Days Across Downscaling Methods" width="600">
 
 Frost Day (1985-2099) counts for each year at 5 locations, smoothed with a 3-year moving mean, showing the 16 model ensemble mean for LOCA2 (green), BCSDd (purple), and STAR trained on nClimGrid (brown). For STAR, the model mean value for STAR downscaled with station data at OLM and SEA is also shown in blue. For years 2015-2099, results are from the SSP5-8.5 scenario. Note the significant difference between the two STAR datasets, just by switching the training data, the projected future Frost Days count changes by 100% because of a different baseline.
+
+-->
