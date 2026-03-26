@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-# Research Projects
+Please click on the links or scroll down to view information about some of my research.
 
 - [West Coast Rain Onset and Wildfire](#west-coast-rain-onset-and-wildfire)
 - [Projections of Atmospheric Circulation](#projections-of-atmospheric-circulation)
