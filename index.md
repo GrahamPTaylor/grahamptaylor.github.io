@@ -61,3 +61,14 @@ Shading shows future Z500 anomalies. Solid contours show positive change, dashed
 ## Downscaling Fit-For-Purpose
 
 Organizations planning for climate change need to use climate models to assess risks, but face an overwhelming number of choices when selecting downscaled climate data. There’s no universal “best method” because different downscaling approaches have varying strengths, and different climate risks require different considerations. The goal of this work is to create practical guidance to help risk managers make better-informed adaptation decisions by determining which climate tools are truly “fit for purpose” for their specific needs.
+
+### Uncertainty in observations contributes to uncertainty in climate change projections
+
+This study investigates how uncertainties in observation-based gridded datasets (OBGDs) influence downscaled climate projections in the Puget Sound region. We compare four OBGDs with station observations and identify significant disagreement in annual temperature indices. These biases propagate through three widely used bias-corrected and statistically downscaled (BSD) products (STAR-ESDM, LOCA2, NEX-GDDP-CMIP6), resulting in mid- and late-century projections that differ by up to 100% when based on the same sixteen CMIP6 models. Differences among BSD products exceed 1°C in winter minimum temperature warming and 50 Frost Days in areas with complex terrain. These findings emphasize that high spatial resolution does not ensure local accuracy, and reliance on a single dataset can obscure critical uncertainties. We recommend users consider multiple OBGDs and BSD products when using climate data for decision-making, and use climate-quality weather stations as benchmarks, where available, especially in areas of complex terrain.
+
+
+<img src="/images/Figure2.jpeg" alt="The workflow of some commonly-used statistical downscaling products" width="600">
+
+<img src="/images/Figure5.jpeg" alt="Historical Frost Days in Station Data and Observation-Based Grids" width="600">
+
+<img src="/images/Figure7.jpeg" alt="Climate Model Projections of Frost Days Across Downscaling Methods" width="600">
