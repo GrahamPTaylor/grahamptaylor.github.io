@@ -65,19 +65,25 @@ Organizations planning for climate change need to use climate models to assess r
 
 This study investigates how uncertainties in observation-based gridded datasets (OBGDs) influence downscaled climate projections in the Puget Sound region. We compare four OBGDs with station observations and identify significant disagreement in annual temperature indices. These biases propagate through three widely used bias-corrected and statistically downscaled (BSD) products (STAR-ESDM, LOCA2, NEX-GDDP-CMIP6), resulting in mid- and late-century projections that differ by up to 100% when based on the same sixteen CMIP6 models. Differences among BSD products exceed 1°C in winter minimum temperature warming and 50 Frost Days in areas with complex terrain. These findings emphasize that high spatial resolution does not ensure local accuracy, and reliance on a single dataset can obscure critical uncertainties. *We recommend users consider multiple OBGDs and BSD products when using climate data for decision-making, and use climate-quality weather stations as benchmarks, where available, especially in areas of complex terrain.*
 
-<br><br>
+<br><br><br><br>
 <img src="/images/Figure1.jpeg" alt="Study Domain" width="600">
 
 The study domain.  Shading shows the elevation gradient of the region with the 5 ISD-lite airport stations indicated by black dots (SEA, TIW, TCM, GRF, OLM). A subset shows the smaller area around the stations. 
+
 <br><br>
+
 <img src="/images/Figure2.jpeg" alt="The workflow of some commonly-used statistical downscaling products" width="600">
 
 The workflow of some commonly-used statistical downscaling products.
+
 <br><br>
+
 <img src="/images/Figure5.jpeg" alt="Historical Frost Days in Station Data and Observation-Based Grids" width="600">
 
 Annual count of Frost Days for 5 stations around the Puget Sound, and OBGD grid cells that contain the station locations, for the historical time period (1985-2014). Note the large disagreements among observation-based datasets, among themselves and with stations.
+
 <br><br>
+
 <img src="/images/Figure8.jpeg" alt="Climate Model Projections of Frost Days Across Downscaling Methods" width="600">
 
 Frost Day (1985-2099) counts for each year at 5 locations, smoothed with a 3-year moving mean, showing the 16 model ensemble mean for LOCA2 (green), BCSDd (purple), and STAR trained on nClimGrid (brown). For STAR, the model mean value for STAR downscaled with station data at OLM and SEA is also shown in blue. For years 2015-2099, results are from the SSP5-8.5 scenario. Note the significant difference between the two STAR datasets, just by switching the training data, the projected future Frost Days count changes by 100% because of a different baseline.
