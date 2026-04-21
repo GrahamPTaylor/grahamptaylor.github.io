@@ -4,11 +4,25 @@ permalink: /
 ---
 
 
-<div style="display: flex; align-items: center;">
-    <p style="margin: 0;">My name is Graham Taylor, and I am Research Associate in the Department of Earth and Atmospheric Sciences at Cornell University. My current research focuses on evaluating bias-correction and statistical downscaling methods for climate projections, with emphasis on providing guidance to practitioners on data selection. Prior to Cornell, I was a UCAR CPAESS Postdoctoral Researcher working at the NOAA Geophysical Fluid Dynamics Laboratory. I received my PhD from Portland State University, where I investigated the large-scale circulation drivers of weather in the western US, and how that weather may change in a warmer world. Please view the research page for more information about my work. 
-</p>
-    <img src="/images/headshot.jpg" alt="Description" style="margin-left: 20px; width: 150px;">
+<div style="display: flex; gap: 28px; align-items: flex-start; margin-bottom: 24px;">
+    <img src="/images/headshot.jpg" alt="Graham Taylor" style="width: 150px; border-radius: 6px; flex-shrink: 0;">
+    <div>
+        <h2 style="margin: 0 0 2px;">Graham Taylor, PhD</h2>
+        <p style="color: #555; margin: 0 0 4px; font-size: 0.95em;">Research Associate, Cornell University</p>
+        <p style="color: #888; margin: 0 0 16px; font-size: 0.85em;">Department of Earth and Atmospheric Sciences</p>
+        <p style="margin: 0; line-height: 1.65;">
+            My name is Graham Taylor, and I am Research Associate in the Department of Earth and Atmospheric Sciences at Cornell University. My current research focuses on evaluating bias-correction and downscaling methods for climate projections, with emphasis on providing guidance to practitioners. Prior to Cornell, I was a UCAR CPAESS Postdoctoral Researcher working at the NOAA Geophysical Fluid Dynamics Laboratory. I received my PhD from Portland State University, where I investigated the large-scale circulation drivers of weather in the western US, and how that weather may change in a warmer world. Please view the research page for more information about my work.
+        </p>
+        <div style="display: flex; gap: 12px; margin-top: 14px; flex-wrap: wrap;">
+            <a href="https://scholar.google.com/citations?user=JdkbOFUAAAAJ" style="font-size: 0.85em; padding: 4px 12px; background: #f4f4f4; border-radius: 6px; color: #333; text-decoration: none;">Google Scholar</a>
+        </div>
+    </div>
 </div>
+
+
+
+
+
 <!--
 <br><br><br>
 # Research Projects
