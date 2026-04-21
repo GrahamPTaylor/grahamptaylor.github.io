@@ -87,7 +87,7 @@ permalink: /research/
 <div class="tags"><span>Downscaling</span><span>Uncertainty</span><span>Decision-making</span></div>
 </a>
 
-<div class="project-section" id="rain-onset">
+<div class="project-section" id="rain-onset" markdown="1">
 
 ## West Coast Autumn Rain Onset and Wildfire
 
@@ -111,11 +111,10 @@ The West Coast of the US typically experiences cool, wet winters and warm, dry s
 Published in *Journal of Geophysical Research: Atmospheres*:
 
 [Historical and Future Autumn Rain and Wind Onset Over Western North America Using Regional Climate Models](https://doi.org/10.1029/2025JD044267)
-{: .pub-link}
 
 </div>
 
-<div class="project-section" id="circulation">
+<div class="project-section" id="circulation" markdown="1">
 
 ## Projections of Atmospheric Circulation
 
@@ -136,11 +135,10 @@ Published in *Climate Dynamics* and *Journal of Climate*:
 [CMIP6 model fidelity at simulating large-scale atmospheric circulation patterns and associated temperature and precipitation over the Pacific Northwest](https://doi.org/10.1007/s00382-022-06410-1)
 
 [Projections of Large-Scale Atmospheric Circulation Patterns and Associated Temperature and Precipitation over the Pacific Northwest Using CMIP6 Models](https://doi.org/10.1175/JCLI-D-23-0108.1)
-{: .pub-link}
 
 </div>
 
-<div class="project-section" id="downscaling">
+<div class="project-section" id="downscaling" markdown="1">
 
 ## Evaluating High-Resolution Climate Data
 
@@ -171,7 +169,6 @@ This study investigates how uncertainties in observation-based gridded datasets 
 </div>
 
 </div>
-
 
 
 
