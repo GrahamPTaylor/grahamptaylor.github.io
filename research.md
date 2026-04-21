@@ -55,7 +55,7 @@ hr {
 <ul class="research-nav">
 <li><a href="#west-coast-autumn-rain-onset-and-wildfire">
 <p class="nav-title">West Coast Autumn Rain Onset and Wildfire</p>
-<p class="nav-desc">Rain and wind onset timing, wildfire risk, and dynamically downscaled CMIP6 models</p>
+<p class="nav-desc">Rain and wind onset timing, wildfire risk, using dynamically downscaled CMIP6 models</p>
 </a></li>
 <li><a href="#projections-of-atmospheric-circulation">
 <p class="nav-title">Atmospheric Circulation and Climate Change</p>
