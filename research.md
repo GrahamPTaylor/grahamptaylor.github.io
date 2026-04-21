@@ -148,7 +148,7 @@ This study investigates how uncertainties in observation-based gridded datasets 
 This work is currently in revision at the *Journal of Applied Meteorology and Climatology*
 
 
-
+<!--
 
 
 
@@ -242,3 +242,4 @@ Frost Day (1985-2099) counts for each year at 5 locations, smoothed with a 3-yea
 
 This work is currently in revision at the *Journal of Applied Meteorology and Climatology*
 
+-->
