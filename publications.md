@@ -29,7 +29,7 @@ permalink: /publications/
 </div>
 
 <div class="pub-entry">
-<strong>Taylor, G. P.</strong>, P. C. Loikith, C. M. Aragon, H. Lee, and D. E. Waliser, 2022: CMIP6 model fidelity at simulating large-scale atmospheric circulation patterns and associated temperature and precipitation over the Pacific Northwest. <em>Clim Dyn</em>, 60, 2199–2218, <a href="https://doi.org/10.1007/s00382-022-06410-1">https://doi.org/10.1007/s00382-022-06410-1</a>.
+<strong>Taylor, G. P.</strong>, P. C. Loikith, C. M. Aragon, H. Lee, and D. E. Waliser, 2022: CMIP6 model fidelity at simulating large-scale atmospheric circulation patterns and associated temperature and precipitation over the Pacific Northwest. <em>Climate Dynamics</em>, 60, 2199–2218, <a href="https://doi.org/10.1007/s00382-022-06410-1">https://doi.org/10.1007/s00382-022-06410-1</a>.
 </div>
 
 <div class="pub-entry">
