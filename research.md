@@ -71,7 +71,7 @@ hr {
 
 ## West Coast Autumn Rain Onset and Wildfire
 
-The West Coast of the US typically experiences cool, wet winters and warm, dry summers, with a transitional period between seasons that brings an increased risk of both strong winds and significant rain. This transition coincides with dangerously dry vegetation, creating high wildfire risk when strong winds arrive before rain. This work using dynamically downscaled CMIP6 model to analyze changes in the timing of rain onset and the timing of wind onset. Models project that by the end of the century under SSP370, strong winds will occur later in the season, and the first significant rainfall will also be delayed, though not as much as the winds. While there may be fewer instances where wind arrives before rain, the longer dry season will likely lead to drier vegetation, potentially affecting wildfire risk.
+The West Coast of the US typically experiences cool, wet winters and warm, dry summers, with a transitional period between seasons that brings an increased risk of both strong winds and significant rain. This transition coincides with dangerously dry vegetation, creating high wildfire risk when strong winds arrive before rain. This work using dynamically downscaled CMIP6 models to analyze changes in the timing of rain onset and the timing of wind onset. Models project that by the end of the century under SSP370, strong winds will occur later in the season, and the first significant rainfall will also be delayed, though not as much as the winds. While there may be fewer instances where wind arrives before rain, the longer dry season will likely lead to drier vegetation, potentially affecting wildfire risk.
 
 #### Historical Rain Onset
 
@@ -99,7 +99,7 @@ This work has been published in the *Journal of Geophysical Research: Atmosphere
 
 ## Projections of Atmospheric Circulation
 
-Climate models predict that by the end of this century, the Pacific Northwest will experience similar winter weather patterns as today, but summer patterns will show weaker atmospheric circulation. Summer weather patterns with strong atmospheric pressure differences will become less frequent. In winter, historically cold patterns will warm the most, while summer will see the greatest warming inland. Most areas will get wetter overall, though some currently rainy summer patterns may become significantly drier.
+Changes to atmospheric circulation in a warming world are still uncertain. This work investigates the characteristic circulation patterns over Western North America, their associated surface impacts, and how climate models project they will change by the end of the century. Results show that the region will experience mostly similar winter circulation patterns in the future, but summer patterns show weaker atmospheric circulation. Summer weather patterns with strong atmospheric pressure differences will become less frequent. In winter, historically cold patterns will warm the most, while summer will see the greatest warming inland. Most areas will get wetter overall, though some currently rainy summer patterns may become significantly drier.
 
 ### Historical Range in JJA Z500 Anomalies (1985-2014)
 
