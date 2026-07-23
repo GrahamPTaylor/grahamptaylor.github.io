@@ -65,8 +65,6 @@ hr {
 <p class="nav-title">Evaluating High-Resolution Climate Data</p>
 <p class="nav-desc">Guidance for selecting downscaled climate data that is fit for purpose</p>
 </a></li>
-</ul>
-</a></li>
 <li><a href="#temporal-sequencing-of-extreme-precipitation-in-downscaled-models">
 <p class="nav-title">Temporal Sequencing of Extreme Precipitation in Downscaled Models</p>
 <p class="nav-desc">Testing whether downscaling simulates the correct sequence of extreme precipitation</p>
@@ -246,10 +244,10 @@ Annual count of Frost Days for 5 stations around the Puget Sound, and OBGD grid 
 
 Frost Day (1985-2099) counts for each year at 5 locations, smoothed with a 3-year moving mean, showing the 16 model ensemble mean for LOCA2 (green), BCSDd (purple), and STAR trained on nClimGrid (brown). For STAR, the model mean value for STAR downscaled with station data at OLM and SEA is also shown in blue. For years 2015-2099, results are from the SSP5-8.5 scenario. Note the significant difference between the two STAR datasets, just by switching the training data, the projected future Frost Days count changes by 100% because of a different baseline.
 
-This work was accepted at the *Journal of Applied Meteorology and Climatology* and is current in production.
+This work was accepted at the *Journal of Applied Meteorology and Climatology* and is currently in production.
 
 <br><br><br><br>
 
 
-##Temporal Sequencing of Extreme Precipitation in Downscaled Models
+## Temporal Sequencing of Extreme Precipitation in Downscaled Models
 -->
