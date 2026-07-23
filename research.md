@@ -66,6 +66,12 @@ hr {
 <p class="nav-desc">Guidance for selecting downscaled climate data that is fit for purpose</p>
 </a></li>
 </ul>
+</a></li>
+<li><a href="#temporal-sequencing-of-extreme-precipitation-in-downscaled-models">
+<p class="nav-title">Temporal Sequencing of Extreme Precipitation in Downscaled Models</p>
+<p class="nav-desc">Testing whether downscaling simulates the correct sequence of extreme precipitation</p>
+</a></li>
+</ul>
 
 ---
 
@@ -242,4 +248,8 @@ Frost Day (1985-2099) counts for each year at 5 locations, smoothed with a 3-yea
 
 This work was accepted at the *Journal of Applied Meteorology and Climatology* and is current in production.
 
+<br><br><br><br>
+
+
+##Temporal Sequencing of Extreme Precipitation in Downscaled Models
 -->
