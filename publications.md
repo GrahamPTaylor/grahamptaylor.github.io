@@ -17,7 +17,11 @@ permalink: /publications/
 </style>
 
 <div class="pub-entry">
-<strong>Taylor, G. P.</strong>, K. Dixon, L. Sun, N. Zenes, S. Hartke, F. Lehner, A. Newman, E. Guttman, R. McCrary, 2025: How Observation-Based Data Influence Uncertainty in Local Climate Projections. <em>Journal of Applied Meteorology and Climatology</em>. In Review.
+<strong>Taylor, G. P.</strong>, K. Dixon, L. Sun, N. Zenes, S. Hartke, F. Lehner, A. Newman, E. Guttman, R. McCrary, 2026: How Observation-Based Data Influence Uncertainty in Local Climate Projections. <em>Journal of Applied Meteorology and Climatology</em>. Accepted, in Production.
+</div>
+
+<div class="pub-entry">
+Loikith, P. C., S. Bigalke, <strong>G. P. Taylor</strong>strong>, D. A. Kalashnikov, D. Singh, and A. Laverty (2026): A climatology of heat domes over North America. <em>Weather and Climate Extremes</em>, 53, 100913, <a href = "https://doi.org/10.1016/j.wace.2026.100913">https://doi.org/10.1016/j.wace.2026.100913</a>.
 </div>
 
 <div class="pub-entry">
