@@ -149,7 +149,13 @@ This study investigates how uncertainties in observation-based gridded datasets 
 
 <p class="caption">Frost Day (1985-2099) counts for each year at 5 locations, smoothed with a 3-year moving mean, showing the 16 model ensemble mean for LOCA2 (green), BCSDd (purple), and STAR trained on nClimGrid (brown). For STAR, the model mean value for STAR downscaled with station data at OLM and SEA is also shown in blue. For years 2015-2099, results are from the SSP5-8.5 scenario. Note the significant difference between the two STAR datasets, just by switching the training data, the projected future Frost Days count changes by 100% because of a different baseline.</p>
 
-This work is currently in revision at the *Journal of Applied Meteorology and Climatology*
+This work was accepted at the *Journal of Applied Meteorology and Climatology* and is currently in production.
+
+<br><br><br><br>
+
+## Temporal Sequencing of Extreme Precipitation in Downscaled Models
+
+Planning for rainfall-related hazards and water resource management requires climate data that accurately represent not only the intensity of extreme precipitation but also whether extreme rainfall occurs as one-day events or multi-day episodes. We show that widely used statistical downscaling products differ substantially in their ability to reproduce this temporal persistence. In several regions, the choice of downscaling method contributes as much uncertainty as the choice of the underlying climate model. These findings demonstrate that downscaled climate products are not interchangeable for applications sensitive to precipitation persistence and highlight the importance of evaluating multiple datasets and accounting for known biases when assessing climate risks.
 
 
 <!--
@@ -244,13 +250,6 @@ Annual count of Frost Days for 5 stations around the Puget Sound, and OBGD grid 
 
 Frost Day (1985-2099) counts for each year at 5 locations, smoothed with a 3-year moving mean, showing the 16 model ensemble mean for LOCA2 (green), BCSDd (purple), and STAR trained on nClimGrid (brown). For STAR, the model mean value for STAR downscaled with station data at OLM and SEA is also shown in blue. For years 2015-2099, results are from the SSP5-8.5 scenario. Note the significant difference between the two STAR datasets, just by switching the training data, the projected future Frost Days count changes by 100% because of a different baseline.
 
-This work was accepted at the *Journal of Applied Meteorology and Climatology* and is currently in production.
 
-<br><br><br><br>
-
-## Temporal Sequencing of Extreme Precipitation in Downscaled Models
-
-
-Planning for rainfall-related hazards and water resource management requires climate data that accurately represent not only the intensity of extreme precipitation but also whether extreme rainfall occurs as one-day events or multi-day episodes. We show that widely used statistical downscaling products differ substantially in their ability to reproduce this temporal persistence. In several regions, the choice of downscaling method contributes as much uncertainty as the choice of the underlying climate model. These findings demonstrate that downscaled climate products are not interchangeable for applications sensitive to precipitation persistence and highlight the importance of evaluating multiple datasets and accounting for known biases when assessing climate risks.
 
 -->
