@@ -21,7 +21,7 @@ permalink: /publications/
 </div>
 
 <div class="pub-entry">
-Loikith, P. C., S. Bigalke, <strong>G. P. Taylor</strong>strong>, D. A. Kalashnikov, D. Singh, and A. Laverty (2026): A climatology of heat domes over North America. <em>Weather and Climate Extremes</em>, 53, 100913, <a href = "https://doi.org/10.1016/j.wace.2026.100913">https://doi.org/10.1016/j.wace.2026.100913</a>.
+Loikith, P. C., S. Bigalke, <strong>G. P. Taylor</strong>, D. A. Kalashnikov, D. Singh, and A. Laverty (2026): A climatology of heat domes over North America. <em>Weather and Climate Extremes</em>, 53, 100913, <a href = "https://doi.org/10.1016/j.wace.2026.100913">https://doi.org/10.1016/j.wace.2026.100913</a>.
 </div>
 
 <div class="pub-entry">
