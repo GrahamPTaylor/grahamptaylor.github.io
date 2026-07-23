@@ -51,26 +51,28 @@ hr {
     margin: 48px 0 32px;
 }
 
-    #top-button {
+#top-button {
     display: none;
     position: fixed;
     bottom: 24px;
     right: 24px;
     z-index: 1000;
-    width: 42px;
-    height: 42px;
-    border: 1px solid #e0e0e0;
+    width: 44px;
+    height: 44px;
+    border: 2px solid #777;
     border-radius: 50%;
     background-color: white;
-    color: #555;
-    font-size: 20px;
+    color: #333;
+    font-size: 22px;
+    font-weight: bold;
     cursor: pointer;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-    transition: border-color 0.2s, opacity 0.2s;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.25);
+    transition: border-color 0.2s, background-color 0.2s;
 }
 
 #top-button:hover {
-    border-color: #999;
+    border-color: #333;
+    background-color: #f5f5f5;
 }
 </style>
 
