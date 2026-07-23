@@ -165,7 +165,25 @@ Planning for rainfall-related hazards and water resource management requires cli
 Extreme precipitation does not always occur as isolated events. In the western United States, extreme rainfall frequently occurs in multi-day episodes, while in the Northeast it is much more likely to occur as single-day events. All four observation-based datasets reproduce this broad spatial pattern, although they differ locally, particularly in regions of complex terrain. These differences highlight that uncertainty exists not only in climate models, but also in the observational datasets used to evaluate them. 
 
 
+<img src="/images/model_mean_epcd_2day_brbg.png" alt="Model Temporal Clustering" width="600">
 
+<p class="caption">CMIP6 model ensemble mean showing the climatological (1980-2014) portion of extreme precipitation days that arrive in multi-day sequences, for 15 models, in native-grid GCMs and three bias-correction and statistical downscaling datasets.</p>
+
+The ensemble mean of the coarse-resolution climate models reproduces the broad observed pattern of multi-day extreme precipitation, with greater clustering in the Pacific-adjacent West and lower clustering in the Northeast. However, the models underestimate clustering in the western mountain ranges, where coarse resolution cannot adequately represent the influence of topography. Despite their much higher spatial resolution, STAR-ESDM and NEX-GDDP largely preserve this behavior. In contrast, LOCA2 substantially increases clustering in the western mountains, producing a pattern that more closely resembles observations, while also introducing notable differences along the East Coast and in southern Florida. These results demonstrate that higher spatial resolution alone does not determine how well downscaled products represent the temporal sequencing of extreme precipitation. 
+
+
+<img src="/images/DS_model_mean_epcd_CONUS_bias_unhatched_2day.png" alt="Model bias in Temporal Clustering" width="600">
+
+<p class="caption">Model bias relative to observation-based data in the climatological (1980-2014) portion of extreme precipitation days that arrive in multi-day sequences.</p>
+
+The climate models exhibit systematic regional biases in the persistence of extreme precipitation. They underestimate multi-day clustering in the western mountains, where coarse resolution cannot adequately represent mountain influences on precipitation, while overestimating clustering along the Gulf Coast and in southern Florida. STAR-ESDM and NEX-GDDP largely preserve these patterns, and in some locations amplify the positive bias in the Southeast. In contrast, LOCA2 substantially reduces bias across much of the western United States and southern Florida, producing much closer agreement with observations. However, these improvements are not universal, as LOCA2 introduces new positive biases along the East Coast and Great Lakes. These results demonstrate that statistical downscaling methods are not interchangeable in their representation of multi-day extreme precipitation. 
+
+
+<img src="/images/method_x_model_variance_fraction_single_lot.jpg" alt="Model bias in Temporal Clustering" width="600">
+
+<p class="caption">Relative contributions of downscaling method and parent climate model to uncertainty in EPCD across the CONUS (1980–2014). At each grid cell, the total variability across all model-method combinations is separated into contributions from the downscaling method and the parent GCM. Colors indicate the dominant source of uncertainty.</p>
+
+Uncertainty in simulated extreme precipitation clustering comes from both the choice of climate model and the choice of downscaling method, but their relative importance varies by region. Across much of the central and southern United States, differences between parent GCMs are the dominant source of uncertainty. However, in regions including the western mountains, southern Florida, New England, and parts of the upper Midwest, the choice of downscaling method contributes as much or more uncertainty than the climate model itself. This means that downscaled climate products are not equally interchangeable everywhere, and method selection can be an important consideration for local climate risk assessments. 
 
 
 
