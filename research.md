@@ -248,6 +248,9 @@ This work was accepted at the *Journal of Applied Meteorology and Climatology* a
 
 <br><br><br><br>
 
-
 ## Temporal Sequencing of Extreme Precipitation in Downscaled Models
+
+
+Planning for rainfall-related hazards and water resource management requires climate data that accurately represent not only the intensity of extreme precipitation but also whether extreme rainfall occurs as one-day events or multi-day episodes. We show that widely used statistical downscaling products differ substantially in their ability to reproduce this temporal persistence. In several regions, the choice of downscaling method contributes as much uncertainty as the choice of the underlying climate model. These findings demonstrate that downscaled climate products are not interchangeable for applications sensitive to precipitation persistence and highlight the importance of evaluating multiple datasets and accounting for known biases when assessing climate risks.
+
 -->
