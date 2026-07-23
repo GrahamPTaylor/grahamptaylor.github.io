@@ -158,6 +158,18 @@ This work was accepted at the *Journal of Applied Meteorology and Climatology* a
 Planning for rainfall-related hazards and water resource management requires climate data that accurately represent not only the intensity of extreme precipitation but also whether extreme rainfall occurs as one-day events or multi-day episodes. We show that widely used statistical downscaling products differ substantially in their ability to reproduce this temporal persistence. In several regions, the choice of downscaling method contributes as much uncertainty as the choice of the underlying climate model. These findings demonstrate that downscaled climate products are not interchangeable for applications sensitive to precipitation persistence and highlight the importance of evaluating multiple datasets and accounting for known biases when assessing climate risks.
 
 
+<img src="/images/gridded_2day_epcd_no_conus404.png" alt="Observation-based Temporal Clustering" width="600">
+
+<p class="caption">Observation-based datasets showing the climatological (1980-2014) portion of extreme precipitation days that arrive in multi-day sequences.</p>
+
+Extreme precipitation does not always occur as isolated events. In the western United States, extreme rainfall frequently occurs in multi-day episodes, while in the Northeast it is much more likely to occur as single-day events. All four observation-based datasets reproduce this broad spatial pattern, although they differ locally, particularly in regions of complex terrain. These differences highlight that uncertainty exists not only in climate models, but also in the observational datasets used to evaluate them. 
+
+
+
+
+
+
+
 <!--
 
 
