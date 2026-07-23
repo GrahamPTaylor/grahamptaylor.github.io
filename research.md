@@ -240,6 +240,6 @@ Annual count of Frost Days for 5 stations around the Puget Sound, and OBGD grid 
 
 Frost Day (1985-2099) counts for each year at 5 locations, smoothed with a 3-year moving mean, showing the 16 model ensemble mean for LOCA2 (green), BCSDd (purple), and STAR trained on nClimGrid (brown). For STAR, the model mean value for STAR downscaled with station data at OLM and SEA is also shown in blue. For years 2015-2099, results are from the SSP5-8.5 scenario. Note the significant difference between the two STAR datasets, just by switching the training data, the projected future Frost Days count changes by 100% because of a different baseline.
 
-This work is currently in revision at the *Journal of Applied Meteorology and Climatology*
+This work was accepted at the *Journal of Applied Meteorology and Climatology* and is current in production.
 
 -->
