@@ -50,6 +50,28 @@ hr {
     border-top: 1px solid #e0e0e0;
     margin: 48px 0 32px;
 }
+
+    #top-button {
+    display: none;
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    z-index: 1000;
+    width: 42px;
+    height: 42px;
+    border: 1px solid #e0e0e0;
+    border-radius: 50%;
+    background-color: white;
+    color: #555;
+    font-size: 20px;
+    cursor: pointer;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    transition: border-color 0.2s, opacity 0.2s;
+}
+
+#top-button:hover {
+    border-color: #999;
+}
 </style>
 
 <ul class="research-nav">
@@ -187,6 +209,26 @@ Uncertainty in simulated extreme precipitation clustering comes from both the ch
 
 
 
+<button id="top-button" title="Return to top">↑</button>
+
+<script>
+const topButton = document.getElementById("top-button");
+
+window.onscroll = function() {
+    if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+        topButton.style.display = "block";
+    } else {
+        topButton.style.display = "none";
+    }
+};
+
+topButton.onclick = function() {
+    window.scrollTo({
+        top: 0,
+        behavior: "smooth"
+    });
+};
+</script>
 
 <!--
 
