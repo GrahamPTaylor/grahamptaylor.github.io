@@ -173,7 +173,9 @@ This study investigates how uncertainties in observation-based gridded datasets 
 
 <p class="caption">Frost Day (1985-2099) counts for each year at 5 locations, smoothed with a 3-year moving mean, showing the 16 model ensemble mean for LOCA2 (green), BCSDd (purple), and STAR trained on nClimGrid (brown). For STAR, the model mean value for STAR downscaled with station data at OLM and SEA is also shown in blue. For years 2015-2099, results are from the SSP5-8.5 scenario. Note the significant difference between the two STAR datasets, just by switching the training data, the projected future Frost Days count changes by 100% because of a different baseline.</p>
 
-This work was accepted at the *Journal of Applied Meteorology and Climatology* and is currently in production.
+This work has been published in the *Journal of Applied Meteorology and Climatology*.
+
+[How Observation-Based Data Influence Uncertainty in Local Climate Projections](https://doi.org/10.1175/JAMC-D-25-0146.1)
 
 <br><br><br><br>
 
