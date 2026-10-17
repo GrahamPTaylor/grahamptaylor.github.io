@@ -10,7 +10,7 @@ permalink: /
     <p class="home-profile__role">Research Associate, Cornell University</p>
     <p class="home-profile__department">Department of Earth and Atmospheric Sciences</p>
     <p class="home-profile__biography">
-      I am a Climate Scientist in the Department of Earth and Atmospheric Sciences at Cornell University. I am interested in how impactful weather can be understood through large-scale climate. I use a earth system models and downscaling methods to help understand which methods we can use to understand regional impacts of climate change. Prior to Cornell, I was a Postdoctoral Researcher working at the NOAA Geophysical Fluid Dynamics Laboratory. Please view the research page for more information about my work.
+      I am a Climate Scientist in the Department of Earth and Atmospheric Sciences at Cornell University. I am interested in how impactful weather can be understood through large-scale climate. I use earth system models, downscaling methods, and observations to understand regional impacts of climate change. Prior to Cornell, I was a Postdoctoral Researcher working at the NOAA Geophysical Fluid Dynamics Laboratory. Please view the research page for more information about my work.
     </p>
     <div class="home-profile__links">
       <a class="button button--primary" href="{{ '/research/' | relative_url }}">Explore my research</a>
