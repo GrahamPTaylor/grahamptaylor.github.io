@@ -1,7 +1,7 @@
 
 ---
 layout: page
-permalink: /
+permalink: /about/
 ---
 <!--
 <div style="display: flex; align-items: center;">

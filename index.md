@@ -3,25 +3,54 @@ layout: page
 permalink: /
 ---
 
-
-<div style="display: flex; gap: 28px; align-items: flex-start; margin-bottom: 24px;">
-    <img src="/images/headshot.jpg" alt="Graham Taylor" style="width: 150px; border-radius: 6px; flex-shrink: 0;">
-    <div>
-        <h2 style="margin: 0 0 2px;">Graham Taylor, PhD</h2>
-        <p style="color: #555; margin: 0 0 4px; font-size: 0.95em;">Research Associate, Cornell University</p>
-        <p style="color: #888; margin: 0 0 16px; font-size: 0.85em;">Department of Earth and Atmospheric Sciences</p>
-        <p style="margin: 0; line-height: 1.65;">
-            I am a Climate Scientist in the Department of Earth and Atmospheric Sciences at Cornell University. I am interested in how impactful weather can be understood through large-scale climate. I use a earth system models and downscaling methods to help understand which methods we can use to understand regional impacts of climate change. Prior to Cornell, I was a Postdoctoral Researcher working at the NOAA Geophysical Fluid Dynamics Laboratory. Please view the research page for more information about my work.
-        </p>
-        <div style="display: flex; gap: 12px; margin-top: 14px; flex-wrap: wrap;">
-            <a href="https://scholar.google.com/citations?user=JdkbOFUAAAAJ" style="font-size: 0.85em; padding: 4px 12px; background: #f4f4f4; border-radius: 6px; color: #333; text-decoration: none;">Google Scholar</a>
-        </div>
+<section class="home-profile">
+  <img class="home-profile__image" src="/images/headshot.jpg" alt="Graham Taylor">
+  <div class="home-profile__content">
+    <h1>Graham Taylor, PhD</h1>
+    <p class="home-profile__role">Research Associate, Cornell University</p>
+    <p class="home-profile__department">Department of Earth and Atmospheric Sciences</p>
+    <p class="home-profile__biography">
+      I am a Climate Scientist in the Department of Earth and Atmospheric Sciences at Cornell University. I am interested in how impactful weather can be understood through large-scale climate. I use a earth system models and downscaling methods to help understand which methods we can use to understand regional impacts of climate change. Prior to Cornell, I was a Postdoctoral Researcher working at the NOAA Geophysical Fluid Dynamics Laboratory. Please view the research page for more information about my work.
+    </p>
+    <div class="home-profile__links">
+      <a class="button button--primary" href="{{ '/research/' | relative_url }}">Explore my research</a>
+      <a class="button" href="https://scholar.google.com/citations?user=JdkbOFUAAAAJ">Google Scholar</a>
     </div>
-</div>
+  </div>
+</section>
 
+<section class="home-research" aria-labelledby="home-research-heading">
+  <h2 id="home-research-heading">Research</h2>
+  <div class="research-grid">
+    <a class="research-card" href="{{ '/research/' | relative_url }}#west-coast-autumn-rain-onset-and-wildfire">
+      <h3>West Coast Autumn Rain Onset and Wildfire</h3>
+      <p>Rain and wind onset timing, wildfire risk, and dynamically downscaled CMIP6 models.</p>
+      <img src="/images/Figure7.jpeg" alt="Projected changes to rain onset">
+      <span class="research-card__link">View full project <span aria-hidden="true">→</span></span>
+    </a>
 
+    <a class="research-card" href="{{ '/research/' | relative_url }}#projections-of-atmospheric-circulation">
+      <h3>Atmospheric Circulation and Climate Change</h3>
+      <p>Large-scale circulation patterns and associated temperature and precipitation over the Pacific Northwest.</p>
+      <img src="/images/JJA_circulation.png" alt="Historical summer atmospheric circulation patterns">
+      <span class="research-card__link">View full project <span aria-hidden="true">→</span></span>
+    </a>
 
+    <a class="research-card" href="{{ '/research/' | relative_url }}#downscaling-fit-for-purpose">
+      <h3>Evaluating High-Resolution Climate Data</h3>
+      <p>Guidance for selecting downscaled climate data that is fit for purpose.</p>
+      <img src="/images/Figure1.jpeg" alt="Study domain and station locations">
+      <span class="research-card__link">View full project <span aria-hidden="true">→</span></span>
+    </a>
 
+    <a class="research-card" href="{{ '/research/' | relative_url }}#temporal-sequencing-of-extreme-precipitation-in-downscaled-models">
+      <h3>Temporal Sequencing of Extreme Precipitation</h3>
+      <p>How well downscaling represents the sequence and persistence of extreme precipitation.</p>
+      <img src="/images/model_mean_epcd_2day_brbg.png" alt="Model representation of multi-day extreme precipitation">
+      <span class="research-card__link">View full project <span aria-hidden="true">→</span></span>
+    </a>
+  </div>
+</section>
 
 <!--
 <br><br><br>
@@ -62,7 +91,7 @@ Climate models predict that by the end of this century, the Pacific Northwest wi
 
 ### Future JJA Z500 Anomalies (2070-2099)
 
-Shading shows future Z500 anomalies. Solid contours show positive change, dashed contours show negative change. 
+Shading shows future Z500 anomalies. Solid contours show positive change, dashed contours show negative change.
 
 <img src="/images/JJA_change.png" alt="Historical Rain Onset Average" width="600">
 
@@ -80,10 +109,9 @@ Organizations planning for climate change need to use climate models to assess r
 
 This study investigates how uncertainties in observation-based gridded datasets (OBGDs) influence downscaled climate projections in the Puget Sound region. We compare four OBGDs with station observations and identify significant disagreement in annual temperature indices. These biases propagate through three widely used bias-corrected and statistically downscaled (BSD) products (STAR-ESDM, LOCA2, NEX-GDDP-CMIP6), resulting in mid- and late-century projections that differ by up to 100% when based on the same sixteen CMIP6 models. Differences among BSD products exceed 1°C in winter minimum temperature warming and 50 Frost Days in areas with complex terrain. These findings emphasize that high spatial resolution does not ensure local accuracy, and reliance on a single dataset can obscure critical uncertainties. We recommend users consider multiple OBGDs and BSD products when using climate data for decision-making, and use climate-quality weather stations as benchmarks, where available, especially in areas of complex terrain.
 
-
 <img src="/images/Figure1.jpeg" alt="Study Domain" width="600">
 
-The study domain.  Shading shows the elevation gradient of the region with the 5 ISD-lite airport stations indicated by black dots (SEA, TIW, TCM, GRF, OLM). A subset shows the smaller area around the stations. 
+The study domain. Shading shows the elevation gradient of the region with the 5 ISD-lite airport stations indicated by black dots (SEA, TIW, TCM, GRF, OLM). A subset shows the smaller area around the stations.
 
 <img src="/images/Figure2.jpeg" alt="The workflow of some commonly-used statistical downscaling products" width="600">
 
