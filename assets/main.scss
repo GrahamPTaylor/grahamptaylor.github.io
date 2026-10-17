@@ -22,7 +22,7 @@ body {
   background: var(--site-paper);
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-size: 16px;
-  line-height: 1.7;
+  line-height: 1.5;
 }
 
 a {
@@ -66,8 +66,8 @@ a:focus-visible {
 
 .home-profile {
   display: grid;
-  grid-template-columns: 220px minmax(0, 1fr);
-  gap: 2.6rem;
+  grid-template-columns: 150px minmax(0, 1fr);
+  gap: 2rem;
   align-items: center;
   padding: 2.25rem;
   background: var(--site-white);
@@ -78,9 +78,9 @@ a:focus-visible {
 
 .home-profile__image {
   display: block;
-  width: 100%;
-  aspect-ratio: 1;
-  object-fit: cover;
+  width: 150px;
+  max-width: 100%;
+  height: auto;
   border-radius: 10px;
 }
 
@@ -104,7 +104,7 @@ a:focus-visible {
 .home-profile__role {
   margin: 0;
   color: var(--site-muted);
-  font-size: 1.03rem;
+  font-size: 1rem;
 }
 
 .home-profile__department {
