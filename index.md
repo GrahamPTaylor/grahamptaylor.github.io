@@ -26,28 +26,24 @@ permalink: /
       <h3>West Coast Autumn Rain Onset and Wildfire</h3>
       <p>Rain and wind onset timing, wildfire risk, and dynamically downscaled CMIP6 models.</p>
       <img src="/images/Figure7.jpeg" alt="Projected changes to rain onset">
-      <span class="research-card__link">View full project <span aria-hidden="true">→</span></span>
     </a>
 
     <a class="research-card" href="{{ '/research/' | relative_url }}#projections-of-atmospheric-circulation">
       <h3>Atmospheric Circulation and Climate Change</h3>
       <p>Large-scale circulation patterns and associated temperature and precipitation over the Pacific Northwest.</p>
       <img src="/images/JJA_circulation.png" alt="Historical summer atmospheric circulation patterns">
-      <span class="research-card__link">View full project <span aria-hidden="true">→</span></span>
     </a>
 
     <a class="research-card" href="{{ '/research/' | relative_url }}#downscaling-fit-for-purpose">
       <h3>Evaluating High-Resolution Climate Data</h3>
       <p>Guidance for selecting downscaled climate data that is fit for purpose.</p>
       <img src="/images/Figure1.jpeg" alt="Study domain and station locations">
-      <span class="research-card__link">View full project <span aria-hidden="true">→</span></span>
     </a>
 
     <a class="research-card" href="{{ '/research/' | relative_url }}#temporal-sequencing-of-extreme-precipitation-in-downscaled-models">
       <h3>Temporal Sequencing of Extreme Precipitation</h3>
       <p>How well downscaling represents the sequence and persistence of extreme precipitation.</p>
       <img src="/images/model_mean_epcd_2day_brbg.png" alt="Model representation of multi-day extreme precipitation">
-      <span class="research-card__link">View full project <span aria-hidden="true">→</span></span>
     </a>
   </div>
 </section>
